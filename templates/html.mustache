@@ -23,13 +23,13 @@
 </head>
 
 <body>
-    {{> blocks.header}}
+    {{> partials.header}}
         
     <main>
     {{$main}}{{/main}}
     </main>
 
-    {{> blocks.footer}}
+    {{> partials.footer}}
     
     {{#page.js}}<script src="{{.}}" async></script>{{/page.js}}
 </body>
