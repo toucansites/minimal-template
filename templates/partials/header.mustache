@@ -1,7 +1,7 @@
 <header>
     <a id="logo" href="/">
         <img
-            src="/images/logo.png"
+            src="{{site.baseUrl}}/images/logo.png"
             alt="Logo of {{site.title}}"
             title="{{site.title}}"
         >
@@ -9,9 +9,9 @@
 
     <nav>
         <div class="navigation">
-            {{#navigation}}
+            {{#site.navigation}}
             <a href="{{url}}"{{#class}} class="{{.}}"{{/class}}>{{label}}</a>
-            {{/navigation}}
+            {{/site.navigation}}
         </div>
     </nav>
 </header>
