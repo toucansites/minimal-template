@@ -1,8 +1,0 @@
-id: sitemap
-queries:
-    pages:
-        contentType: page
-        scope: list
-        orderBy:
-            - key: lastUpdate
-              direction: desc
