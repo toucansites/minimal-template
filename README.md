@@ -1,5 +1,5 @@
-# Minimal theme 
+# Minimal template 
 
-Just a minimal theme for the Toucan static site generator.
+Just a minimal template for the Toucan static site generator.
 
 
