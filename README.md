@@ -8,7 +8,7 @@ The Minimal template is used during the configuration process of a Toucan site. 
 
 ## Resources
 
-- [Live Demo Site](https://toucansites.github.io/minimal-template/)
+- [Live Demo Site](https://toucansites.github.io/minimal-template-demo/)
 - [Live Demo Source Code](https://github.com/toucansites/minimal-template-demo)
 - [About Toucan Templates](https://toucansites.com/docs/templates/)
 - [Toucan Installation Guides](https://toucansites.com/docs/installation/)
